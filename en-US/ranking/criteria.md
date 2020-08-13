@@ -19,7 +19,6 @@ The following pertains to metadata that your maps contain such as song artists, 
 
 * **The artist and title must be absolutely correct.**
 * **The artist and title must be romanized.** However, non-romanized characters are allowed to be used in source and tags.
-* **The artist, title and source must not repeat in tags.** However, romanizing or translating the source in tags is encouraged, in case it's relevant.
 * **Tags must contain the genre of the song.**
 * **Every difficulty must have a difficulty name.**
 
